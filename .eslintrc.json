@@ -14,3 +14,11 @@
         "no-unused-vars": ["warn", { "args": "after-used", "argsIgnorePattern": "^_" }]
     }
 }
+
+git clone https://github.com/LudicrousDevelopment/Ludicrous
+
+cd Ludicrous
+
+npm install
+
+npm run go
